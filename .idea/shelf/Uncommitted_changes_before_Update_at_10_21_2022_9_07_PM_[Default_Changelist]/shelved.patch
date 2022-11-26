@@ -1,0 +1,18 @@
+Index: .idea/runConfigurations.xml
+===================================================================
+diff --git a/.idea/runConfigurations.xml b/.idea/runConfigurations.xml
+deleted file mode 100644
+--- a/.idea/runConfigurations.xml	(revision fd7b2d38b5266a7fb94d56208277d32b4e81c9d6)
++++ /dev/null	(revision fd7b2d38b5266a7fb94d56208277d32b4e81c9d6)
+@@ -1,10 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="RunConfigurationProducerService">
+-    <option name="ignoredProducers">
+-      <set>
+-        <option value="com.android.tools.idea.compose.preview.runconfiguration.ComposePreviewRunConfigurationProducer" />
+-      </set>
+-    </option>
+-  </component>
+-</project>
+\ No newline at end of file

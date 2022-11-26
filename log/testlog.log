@@ -1,0 +1,871 @@
+2022-09-22 20:09:02,096 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 105.0.5195.52 (since Google Chrome 105 is installed in your machine)
+2022-09-22 20:09:02,132 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+2022-09-22 20:09:03,143 - io.github.bonigarcia.wdm.Downloader -INFO - Downloading https://chromedriver.storage.googleapis.com/105.0.5195.52/chromedriver_mac64.zip
+2022-09-22 20:09:04,788 - io.github.bonigarcia.wdm.Downloader -INFO - Extracting binary from compressed file chromedriver_mac64.zip
+2022-09-22 20:09:04,963 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+2022-09-22 20:09:11,642 - ui_automation.utilities.SelectHelper -INFO - I have entered login information and then clicked on login button
+2022-09-25 11:12:00,876 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 105.0.5195.52 (since Google Chrome 105 is installed in your machine)
+2022-09-25 11:12:00,921 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+2022-09-25 11:13:22,771 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 105.0.5195.52 (since Google Chrome 105 is installed in your machine)
+2022-09-25 11:13:22,840 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+2022-09-25 11:17:42,215 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 105.0.5195.52 (since Google Chrome 105 is installed in your machine)
+2022-09-25 11:17:42,252 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+2022-09-25 11:20:27,880 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 105.0.5195.52 (since Google Chrome 105 is installed in your machine)
+2022-09-25 11:20:27,909 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+2022-09-25 11:41:44,964 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 105.0.5195.52 (since Google Chrome 105 is installed in your machine)
+2022-09-25 11:41:45,003 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+2022-09-25 11:43:05,687 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 105.0.5195.52 (since Google Chrome 105 is installed in your machine)
+2022-09-25 11:43:05,716 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+2022-09-25 11:45:18,416 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 105.0.5195.52 (since Google Chrome 105 is installed in your machine)
+2022-09-25 11:45:18,455 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+2022-09-25 11:48:09,113 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 105.0.5195.52 (since Google Chrome 105 is installed in your machine)
+2022-09-25 11:48:09,153 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+2022-09-25 11:53:17,385 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 105.0.5195.52 (since Google Chrome 105 is installed in your machine)
+2022-09-25 11:53:17,427 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+2022-09-25 11:53:28,916 - ui_automation.utilities.AlertHelper -INFO - clicked: copy
+2022-09-25 11:53:28,930 - ui_automation.utilities.AlertHelper -INFO - 
+2022-09-25 12:21:17,299 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 105.0.5195.52 (since Google Chrome 105 is installed in your machine)
+2022-09-25 12:21:17,339 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+2022-09-25 12:22:29,523 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 105.0.5195.52 (since Google Chrome 105 is installed in your machine)
+2022-09-25 12:22:29,602 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+2022-09-25 12:28:30,191 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 105.0.5195.52 (since Google Chrome 105 is installed in your machine)
+2022-09-25 12:28:30,249 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+2022-09-25 12:31:45,135 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 105.0.5195.52 (since Google Chrome 105 is installed in your machine)
+2022-09-25 12:31:45,178 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+2022-09-25 12:34:22,488 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 105.0.5195.52 (since Google Chrome 105 is installed in your machine)
+2022-09-25 12:34:22,533 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+2022-09-25 13:16:06,526 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 105.0.5195.52 (since Google Chrome 105 is installed in your machine)
+2022-09-25 13:16:06,587 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+2022-09-25 13:17:11,563 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 105.0.5195.52 (since Google Chrome 105 is installed in your machine)
+2022-09-25 13:17:11,611 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+2022-09-29 18:17:07,578 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 106.0.5249.21 (since Google Chrome 106 is installed in your machine)
+2022-09-29 18:17:07,603 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/106.0.5249.21/chromedriver
+2022-09-29 18:18:02,857 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 106.0.5249.21 (since Google Chrome 106 is installed in your machine)
+2022-09-29 18:18:02,873 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/106.0.5249.21/chromedriver
+2022-09-29 18:19:37,289 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 106.0.5249.21 (since Google Chrome 106 is installed in your machine)
+2022-09-29 18:19:37,317 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/106.0.5249.21/chromedriver
+2022-09-29 18:20:20,496 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 106.0.5249.21 (since Google Chrome 106 is installed in your machine)
+2022-09-29 18:20:20,517 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/106.0.5249.21/chromedriver
+2022-09-29 18:21:13,313 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 106.0.5249.21 (since Google Chrome 106 is installed in your machine)
+2022-09-29 18:21:13,340 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/106.0.5249.21/chromedriver
+2022-09-29 18:21:35,797 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 106.0.5249.21 (since Google Chrome 106 is installed in your machine)
+2022-09-29 18:21:35,814 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/106.0.5249.21/chromedriver
+2022-09-29 18:21:54,393 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 106.0.5249.21 (since Google Chrome 106 is installed in your machine)
+2022-09-29 18:21:54,413 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/106.0.5249.21/chromedriver
+2022-09-29 18:22:31,510 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 106.0.5249.21 (since Google Chrome 106 is installed in your machine)
+2022-09-29 18:22:31,533 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/106.0.5249.21/chromedriver
+2022-09-29 19:42:35,131 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 106.0.5249.21 (since Google Chrome 106 is installed in your machine)
+2022-09-29 19:42:35,183 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/106.0.5249.21/chromedriver
+2022-09-29 19:48:56,451 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 106.0.5249.21 (since Google Chrome 106 is installed in your machine)
+2022-09-29 19:48:56,490 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/106.0.5249.21/chromedriver
+2022-09-29 20:18:55,162 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 106.0.5249.21 (since Google Chrome 106 is installed in your machine)
+2022-09-29 20:18:55,219 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/106.0.5249.21/chromedriver
+2022-09-29 20:20:09,548 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 106.0.5249.21 (since Google Chrome 106 is installed in your machine)
+2022-09-29 20:20:09,573 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/106.0.5249.21/chromedriver
+2022-09-29 21:14:16,253 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 106.0.5249.21 (since Google Chrome 106 is installed in your machine)
+2022-09-29 21:14:16,299 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/106.0.5249.21/chromedriver
+2022-09-29 21:15:03,087 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 106.0.5249.21 (since Google Chrome 106 is installed in your machine)
+2022-09-29 21:15:03,115 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/106.0.5249.21/chromedriver
+2022-09-29 21:15:49,043 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 106.0.5249.21 (since Google Chrome 106 is installed in your machine)
+2022-09-29 21:15:49,083 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/106.0.5249.21/chromedriver
+2022-09-29 21:31:52,711 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 106.0.5249.21 (since Google Chrome 106 is installed in your machine)
+2022-09-29 21:31:52,759 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/106.0.5249.21/chromedriver
+2022-09-29 21:31:57,941 - ui_automation.step_definitions.FileDownloadSteps -INFO - Navigating to Herokuapp Download Page
+2022-09-29 21:32:00,125 - ui_automation.step_definitions.FileDownloadSteps -INFO - Downloading a file from Herokuapp Download Page
+2022-10-02 11:46:39,975 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 106.0.5249.61 (since Google Chrome 106 is installed in your machine)
+2022-10-02 11:46:40,024 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+2022-10-02 11:46:40,485 - io.github.bonigarcia.wdm.Downloader -INFO - Downloading https://chromedriver.storage.googleapis.com/106.0.5249.61/chromedriver_mac64.zip
+2022-10-02 11:46:40,883 - io.github.bonigarcia.wdm.Downloader -INFO - Extracting binary from compressed file chromedriver_mac64.zip
+2022-10-02 11:46:41,115 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/106.0.5249.61/chromedriver
+2022-10-02 11:46:47,741 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Navigated to https://dev-mb.yoll.io/ URL!
+2022-10-02 11:46:56,729 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Successfully logged in with valid credentials!
+2022-10-02 11:47:48,479 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 106.0.5249.61 (since Google Chrome 106 is installed in your machine)
+2022-10-02 11:47:48,526 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/106.0.5249.61/chromedriver
+2022-10-02 11:47:54,820 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Navigated to https://dev-mb.yoll.io/Account/Login URL!
+2022-10-02 11:47:57,057 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Successfully logged in with valid credentials!
+2022-10-02 12:50:18,675 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 106.0.5249.61 (since Google Chrome 106 is installed in your machine)
+2022-10-02 12:50:18,725 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/106.0.5249.61/chromedriver
+2022-10-02 12:50:25,083 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Navigated to https://dev-mb.yoll.io/Account/Login URL!
+2022-10-02 12:50:27,356 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Successfully logged in with valid credentials!
+2022-10-02 12:50:29,840 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Successfully navigates to Expenses Tab
+2022-10-02 12:50:32,931 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Successfully landed on Meal and Entertainment modal window
+2022-10-02 13:08:20,353 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 106.0.5249.61 (since Google Chrome 106 is installed in your machine)
+2022-10-02 13:08:20,409 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/106.0.5249.61/chromedriver
+2022-10-02 13:08:28,103 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Navigated to https://dev-mb.yoll.io/Account/Login URL!
+2022-10-02 13:08:30,341 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Successfully logged in with valid credentials!
+2022-10-02 13:08:32,738 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Successfully navigates to Expenses Tab
+2022-10-02 13:08:35,844 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Successfully landed on Meal and Entertainment modal window
+2022-10-02 13:17:12,707 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 106.0.5249.61 (since Google Chrome 106 is installed in your machine)
+2022-10-02 13:17:12,750 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/106.0.5249.61/chromedriver
+2022-10-02 13:17:19,065 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Navigated to https://dev-mb.yoll.io/Account/Login URL!
+2022-10-02 13:17:21,321 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Successfully logged in with valid credentials!
+2022-10-02 13:17:23,750 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Successfully navigates to Expenses Tab
+2022-10-02 13:17:26,843 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Successfully landed on Meal and Entertainment modal window
+2022-10-02 13:24:00,267 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 106.0.5249.61 (since Google Chrome 106 is installed in your machine)
+2022-10-02 13:24:00,311 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/106.0.5249.61/chromedriver
+2022-10-02 13:24:06,581 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Navigated to https://dev-mb.yoll.io/Account/Login URL!
+2022-10-02 13:24:08,809 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Successfully logged in with valid credentials!
+2022-10-02 13:24:11,240 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Successfully navigates to Expenses Tab
+2022-10-02 13:24:14,333 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Successfully landed on Meal and Entertainment modal window
+2022-10-02 13:43:43,044 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 106.0.5249.61 (since Google Chrome 106 is installed in your machine)
+2022-10-02 13:43:43,114 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/106.0.5249.61/chromedriver
+2022-10-02 13:43:50,348 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Navigated to https://dev-mb.yoll.io/Account/Login URL!
+2022-10-02 13:43:52,575 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Successfully logged in with valid credentials!
+2022-10-02 13:43:54,963 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Successfully navigates to Expenses Tab
+2022-10-02 13:43:58,060 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Successfully landed on Meal and Entertainment modal window
+2022-10-06 19:37:26,801 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 106.0.5249.61 (since Google Chrome 106 is installed in your machine)
+2022-10-06 19:37:26,907 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/106.0.5249.61/chromedriver
+2022-10-06 19:37:56,002 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 106.0.5249.61 (since Google Chrome 106 is installed in your machine)
+2022-10-06 19:37:56,039 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/106.0.5249.61/chromedriver
+2022-10-06 19:42:39,884 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 106.0.5249.61 (since Google Chrome 106 is installed in your machine)
+2022-10-06 19:42:39,938 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/106.0.5249.61/chromedriver
+2022-10-06 19:44:53,664 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 106.0.5249.61 (since Google Chrome 106 is installed in your machine)
+2022-10-06 19:44:53,720 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/106.0.5249.61/chromedriver
+2022-10-06 20:10:37,485 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 106.0.5249.61 (since Google Chrome 106 is installed in your machine)
+2022-10-06 20:10:37,529 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/106.0.5249.61/chromedriver
+2022-10-06 20:26:53,155 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 106.0.5249.61 (since Google Chrome 106 is installed in your machine)
+2022-10-06 20:26:53,203 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/106.0.5249.61/chromedriver
+2022-10-06 20:27:01,493 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Navigated to https://dev-mb.yoll.io/Account/Login URL!
+2022-10-06 20:27:03,826 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Successfully logged in with valid credentials!
+2022-10-06 20:27:06,248 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Successfully navigates to Expenses Tab
+2022-10-06 20:27:09,347 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Successfully landed on Meal and Entertainment modal window
+2022-10-06 20:28:12,543 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 106.0.5249.61 (since Google Chrome 106 is installed in your machine)
+2022-10-06 20:28:12,601 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/106.0.5249.61/chromedriver
+2022-10-06 20:28:19,168 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Navigated to https://dev-mb.yoll.io/Account/Login URL!
+2022-10-06 20:28:21,446 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Successfully logged in with valid credentials!
+2022-10-06 20:28:23,868 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Successfully navigates to Expenses Tab
+2022-10-06 20:28:26,969 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Successfully landed on Meal and Entertainment modal window
+2022-10-06 20:30:31,374 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 106.0.5249.61 (since Google Chrome 106 is installed in your machine)
+2022-10-06 20:30:31,415 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/106.0.5249.61/chromedriver
+2022-10-06 20:30:43,556 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Navigated to https://dev-mb.yoll.io/Account/Login URL!
+2022-10-06 20:30:45,801 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Successfully logged in with valid credentials!
+2022-10-06 20:30:48,227 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Successfully navigates to Expenses Tab
+2022-10-06 20:30:51,323 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Successfully landed on Meal and Entertainment modal window
+2022-10-06 20:33:34,697 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 106.0.5249.61 (since Google Chrome 106 is installed in your machine)
+2022-10-06 20:33:34,740 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/106.0.5249.61/chromedriver
+2022-10-06 20:33:41,628 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Navigated to https://dev-mb.yoll.io/Account/Login URL!
+2022-10-06 20:33:43,862 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Successfully logged in with valid credentials!
+2022-10-06 20:33:46,400 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Successfully navigates to Expenses Tab
+2022-10-06 20:33:49,530 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Successfully landed on Meal and Entertainment modal window
+2022-10-09 12:48:07,226 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 106.0.5249.61 (since Google Chrome 106 is installed in your machine)
+2022-10-09 12:48:07,277 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/106.0.5249.61/chromedriver
+2022-10-09 12:48:18,009 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Navigated to https://dev-mb.yoll.io/Account/Login URL!
+2022-10-09 12:48:20,406 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Successfully logged in with valid credentials!
+2022-10-09 12:48:22,853 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Successfully navigates to Expenses Tab
+2022-10-09 13:18:29,975 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 106.0.5249.61 (since Google Chrome 106 is installed in your machine)
+2022-10-09 13:18:30,010 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/106.0.5249.61/chromedriver
+2022-10-09 13:18:35,908 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Navigated to https://dev-mb.yoll.io/Account/Login URL!
+2022-10-09 13:18:38,143 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Successfully logged in with valid credentials!
+2022-10-09 13:18:40,530 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Successfully navigates to Expenses Tab
+2022-10-09 13:24:27,007 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 106.0.5249.61 (since Google Chrome 106 is installed in your machine)
+2022-10-09 13:24:27,042 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/106.0.5249.61/chromedriver
+2022-10-09 13:24:32,861 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Navigated to https://dev-mb.yoll.io/Account/Login URL!
+2022-10-09 13:24:35,088 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Successfully logged in with valid credentials!
+2022-10-09 13:24:37,544 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Successfully navigates to Expenses Tab
+2022-10-09 13:26:20,590 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 106.0.5249.61 (since Google Chrome 106 is installed in your machine)
+2022-10-09 13:26:20,613 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/106.0.5249.61/chromedriver
+2022-10-09 13:26:25,526 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Navigated to https://dev-mb.yoll.io/Account/Login URL!
+2022-10-09 13:26:27,736 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Successfully logged in with valid credentials!
+2022-10-09 13:26:30,107 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Successfully navigates to Expenses Tab
+2022-10-09 13:36:47,434 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 106.0.5249.61 (since Google Chrome 106 is installed in your machine)
+2022-10-09 13:36:47,492 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/106.0.5249.61/chromedriver
+2022-10-09 13:36:56,118 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Navigated to https://dev-mb.yoll.io/Account/Login URL!
+2022-10-09 13:36:58,433 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Successfully logged in with valid credentials!
+2022-10-09 13:37:00,972 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Successfully navigates to Expenses Tab
+2022-10-09 13:46:15,971 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 106.0.5249.61 (since Google Chrome 106 is installed in your machine)
+2022-10-09 13:46:16,013 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/106.0.5249.61/chromedriver
+2022-10-09 13:46:31,715 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Navigated to https://dev-mb.yoll.io/Account/Login URL!
+2022-10-09 13:46:34,093 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Successfully logged in with valid credentials!
+2022-10-09 13:46:36,520 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Successfully navigates to Expenses Tab
+2022-10-09 13:49:07,899 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 106.0.5249.61 (since Google Chrome 106 is installed in your machine)
+2022-10-09 13:49:07,945 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/106.0.5249.61/chromedriver
+2022-10-09 13:49:15,637 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Navigated to https://dev-mb.yoll.io/Account/Login URL!
+2022-10-09 13:49:17,934 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Successfully logged in with valid credentials!
+2022-10-09 13:49:20,422 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Successfully navigates to Expenses Tab
+2022-10-09 13:50:19,027 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 106.0.5249.61 (since Google Chrome 106 is installed in your machine)
+2022-10-09 13:50:19,059 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/106.0.5249.61/chromedriver
+2022-10-09 13:50:25,236 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Navigated to https://dev-mb.yoll.io/Account/Login URL!
+2022-10-09 13:50:27,518 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Successfully logged in with valid credentials!
+2022-10-09 13:50:29,924 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Successfully navigates to Expenses Tab
+2022-10-09 13:52:21,990 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 106.0.5249.61 (since Google Chrome 106 is installed in your machine)
+2022-10-09 13:52:22,028 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/106.0.5249.61/chromedriver
+2022-10-09 13:52:29,825 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Navigated to https://dev-mb.yoll.io/Account/Login URL!
+2022-10-09 13:52:32,104 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Successfully logged in with valid credentials!
+2022-10-09 13:52:34,535 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Successfully navigates to Expenses Tab
+2022-10-13 17:56:11,693 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 106.0.5249.61 (since Google Chrome 106 is installed in your machine)
+2022-10-13 17:56:11,725 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/106.0.5249.61/chromedriver
+2022-10-13 17:56:15,146 - ui_automation.step_definitions.FileDownloadSteps -INFO - Navigating to Herokuapp Download Page
+2022-10-13 17:57:20,597 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 106.0.5249.61 (since Google Chrome 106 is installed in your machine)
+2022-10-13 17:57:20,628 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/106.0.5249.61/chromedriver
+2022-10-13 17:57:23,064 - ui_automation.step_definitions.FileDownloadSteps -INFO - Navigating to Herokuapp Download Page
+2022-10-13 17:57:25,163 - ui_automation.step_definitions.FileDownloadSteps -INFO - Downloading a file from Herokuapp Download Page
+2022-10-13 18:04:23,991 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 106.0.5249.61 (since Google Chrome 106 is installed in your machine)
+2022-10-13 18:04:24,019 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/106.0.5249.61/chromedriver
+2022-10-13 18:04:27,099 - ui_automation.step_definitions.FileDownloadSteps -INFO - Navigating to Herokuapp Download Page
+2022-10-13 18:04:29,198 - ui_automation.step_definitions.FileDownloadSteps -INFO - Downloading a file from Herokuapp Download Page
+2022-10-13 18:06:05,894 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 106.0.5249.61 (since Google Chrome 106 is installed in your machine)
+2022-10-13 18:06:05,918 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/106.0.5249.61/chromedriver
+2022-10-13 18:06:08,366 - ui_automation.step_definitions.FileDownloadSteps -INFO - Navigating to Herokuapp Download Page
+2022-10-13 18:06:10,458 - ui_automation.step_definitions.FileDownloadSteps -INFO - Downloading a file from Herokuapp Download Page
+2022-10-13 18:06:55,238 - ui_automation.step_definitions.FileDownloadSteps -INFO - Navigating to Herokuapp Download Page
+2022-10-13 18:06:57,371 - ui_automation.step_definitions.FileDownloadSteps -INFO - Downloading a file from Herokuapp Download Page
+2022-10-13 18:07:51,917 - ui_automation.step_definitions.FileDownloadSteps -INFO - Navigating to Herokuapp Download Page
+2022-10-13 18:07:54,043 - ui_automation.step_definitions.FileDownloadSteps -INFO - Downloading a file from Herokuapp Download Page
+2022-10-13 18:15:15,353 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 106.0.5249.61 (since Google Chrome 106 is installed in your machine)
+2022-10-13 18:15:15,378 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/106.0.5249.61/chromedriver
+2022-10-13 18:15:18,300 - ui_automation.step_definitions.FileDownloadSteps -INFO - Navigating to Herokuapp Download Page
+2022-10-13 18:15:20,404 - ui_automation.step_definitions.FileDownloadSteps -INFO - Downloading a file from Herokuapp Download Page
+2022-10-13 18:20:00,029 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 106.0.5249.61 (since Google Chrome 106 is installed in your machine)
+2022-10-13 18:20:00,053 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/106.0.5249.61/chromedriver
+2022-10-13 18:25:03,171 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 106.0.5249.61 (since Google Chrome 106 is installed in your machine)
+2022-10-13 18:25:03,197 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/106.0.5249.61/chromedriver
+2022-10-13 18:35:41,331 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Navigated to https://dev-mb.yoll.io/Account/Login URL!
+2022-10-13 18:35:43,693 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Successfully logged in with valid credentials!
+2022-10-13 18:35:46,339 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Successfully navigates to Expenses Tab
+2022-10-13 18:36:03,649 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Navigated to https://dev-mb.yoll.io/Account/Login URL!
+2022-10-13 18:36:06,005 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Successfully logged in with valid credentials!
+2022-10-13 18:36:08,599 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Successfully navigates to Expenses Tab
+2022-10-13 18:41:01,802 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Navigated to https://dev-mb.yoll.io/Account/Login URL!
+2022-10-13 18:41:04,133 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Successfully logged in with valid credentials!
+2022-10-13 18:41:06,745 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Successfully navigates to Expenses Tab
+2022-10-13 18:42:02,729 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Navigated to https://dev-mb.yoll.io/Account/Login URL!
+2022-10-13 18:42:05,090 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Successfully logged in with valid credentials!
+2022-10-13 18:42:07,656 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Successfully navigates to Expenses Tab
+2022-10-13 18:43:33,993 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Navigated to https://dev-mb.yoll.io/Account/Login URL!
+2022-10-13 18:43:36,422 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Successfully logged in with valid credentials!
+2022-10-13 18:43:39,101 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Successfully navigates to Expenses Tab
+2022-10-13 19:38:39,579 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 106.0.5249.61 (since Google Chrome 106 is installed in your machine)
+2022-10-13 19:38:39,632 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/106.0.5249.61/chromedriver
+2022-10-13 19:39:05,079 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 106.0.5249.61 (since Google Chrome 106 is installed in your machine)
+2022-10-13 19:39:05,106 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/106.0.5249.61/chromedriver
+2022-10-13 19:39:30,186 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 106.0.5249.61 (since Google Chrome 106 is installed in your machine)
+2022-10-13 19:39:30,223 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/106.0.5249.61/chromedriver
+2022-10-13 19:44:58,097 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 106.0.5249.61 (since Google Chrome 106 is installed in your machine)
+2022-10-13 19:44:58,134 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/106.0.5249.61/chromedriver
+2022-10-13 19:48:20,848 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 106.0.5249.61 (since Google Chrome 106 is installed in your machine)
+2022-10-13 19:48:20,890 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/106.0.5249.61/chromedriver
+2022-10-13 20:06:59,717 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 106.0.5249.61 (since Google Chrome 106 is installed in your machine)
+2022-10-13 20:06:59,745 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/106.0.5249.61/chromedriver
+2022-10-13 20:33:10,968 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 106.0.5249.61 (since Google Chrome 106 is installed in your machine)
+2022-10-13 20:33:11,005 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/106.0.5249.61/chromedriver
+2022-10-13 20:33:11,018 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 106.0.5249.61 (since Google Chrome 106 is installed in your machine)
+2022-10-13 20:33:11,025 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/orkhankarimov/.m2/repository/webdriver/chromedriver/mac64/106.0.5249.61/chromedriver
+2022-10-13 20:33:19,069 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Navigated to https://dev-mb.yoll.io/Account/Login URL!
+2022-10-13 20:34:14,834 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Navigated to https://dev-mb.yoll.io/Account/Login URL!
+2022-10-13 20:34:17,153 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Successfully logged in with valid credentials!
+2022-10-13 20:34:19,795 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Successfully navigates to Expenses Tab
+2022-10-13 20:37:43,671 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Navigated to https://dev-mb.yoll.io/Account/Login URL!
+2022-10-13 20:37:45,976 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Successfully logged in with valid credentials!
+2022-10-13 20:37:48,549 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Successfully navigates to Expenses Tab
+2022-10-13 20:39:39,593 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Navigated to https://dev-mb.yoll.io/Account/Login URL!
+2022-10-13 20:39:41,982 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Successfully logged in with valid credentials!
+2022-10-13 20:39:44,619 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Successfully navigates to Expenses Tab
+2022-10-13 20:57:17,779 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Navigated to https://dev-mb.yoll.io/Account/Login URL!
+2022-10-21 20:51:39,761 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 106.0.5249.61 (since Google Chrome 106 is installed in your machine)
+2022-10-21 20:51:39,818 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\106.0.5249.61\chromedriver.exe
+2022-10-21 20:51:51,341 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 106.0.5249.61 (since Google Chrome 106 is installed in your machine)
+2022-10-21 20:51:51,352 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\106.0.5249.61\chromedriver.exe
+2022-10-21 21:25:09,099 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 106.0.5249.61 (since Google Chrome 106 is installed in your machine)
+2022-10-21 21:25:09,114 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\106.0.5249.61\chromedriver.exe
+2022-10-21 21:25:13,956 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - Navigated to https://dev-mb.yoll.io/Account/Login URL!
+2022-10-21 21:25:16,278 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - User successfully logged in with valid credentials!
+2022-10-21 21:25:19,184 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - User successfully navigates to Expenses Tab
+2022-10-21 21:25:21,388 - ui_automation.step_definitions.mbExpensesPageSteps -INFO - User successfully landed on Meal and Entertainment modal window
+2022-11-17 22:26:06,669 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-17 22:26:06,709 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+2022-11-17 22:26:07,212 - io.github.bonigarcia.wdm.Downloader -INFO - Downloading https://chromedriver.storage.googleapis.com/107.0.5304.62/chromedriver_win32.zip
+2022-11-17 22:26:09,096 - io.github.bonigarcia.wdm.Downloader -INFO - Extracting binary from compressed file chromedriver_win32.zip
+2022-11-17 22:26:09,797 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-17 22:26:15,193 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-17 22:26:15,199 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-17 22:26:18,806 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-17 22:26:18,812 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-17 22:39:37,371 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-17 22:39:37,394 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-17 22:39:46,604 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-17 22:39:46,610 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-17 22:40:15,200 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-17 22:40:15,217 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-17 22:40:25,531 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-17 22:40:25,537 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-17 22:44:01,337 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-17 22:44:01,362 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-17 22:44:11,521 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-17 22:44:11,527 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-18 14:52:32,355 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-18 14:52:32,372 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-18 14:52:39,545 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-18 14:52:39,549 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-18 14:52:40,606 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-18 14:52:40,610 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-18 14:52:41,656 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-18 14:52:41,661 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-18 14:55:25,111 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-18 14:55:25,127 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-18 14:55:28,011 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-18 14:55:28,018 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-18 14:55:29,461 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-18 14:55:29,466 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-18 14:55:31,002 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-18 14:55:31,008 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-18 14:56:30,414 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-18 14:56:30,431 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-18 14:56:33,644 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-18 14:56:33,648 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-18 14:57:41,523 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-18 14:57:41,539 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-18 14:57:43,775 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-18 14:57:43,780 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-18 14:57:45,643 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-18 14:57:45,646 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-18 14:57:46,806 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-18 14:57:46,809 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-18 14:57:48,013 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-18 14:57:48,020 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-18 14:58:50,756 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-18 14:58:50,772 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-18 14:59:07,719 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-18 14:59:07,723 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-18 15:02:14,821 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-18 15:02:14,837 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-18 15:02:22,391 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-18 15:02:22,400 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-18 15:07:04,987 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-18 15:07:05,006 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-18 15:07:12,363 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-18 15:07:12,368 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-18 15:18:48,988 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-18 15:18:49,002 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-18 15:18:50,379 - ui_automation.step_definitions.RightClickPageSteps -INFO -
+2022-11-18 15:18:52,731 - ui_automation.step_definitions.RightClickPageSteps -INFO -
+2022-11-18 15:18:54,913 - ui_automation.step_definitions.RightClickPageSteps -INFO -
+2022-11-18 15:18:54,915 - ui_automation.utilities.AlertHelper -INFO - 
+2022-11-18 15:18:55,748 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-18 15:18:55,752 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-18 17:10:07,646 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-18 17:10:07,663 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-18 17:10:50,475 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-18 17:10:50,489 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-18 17:17:30,411 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-18 17:17:30,425 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-18 17:19:22,015 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-18 17:19:22,029 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-18 17:53:29,266 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-18 17:53:29,283 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-18 17:54:17,292 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-18 17:54:17,305 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-18 18:42:15,271 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-18 18:42:15,291 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-18 18:43:39,696 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-18 18:43:39,711 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-18 18:44:27,484 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-18 18:44:27,502 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-18 18:48:04,731 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-18 18:48:04,750 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-18 18:48:29,565 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-18 18:48:29,583 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-18 18:53:26,863 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-18 18:53:26,886 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-18 18:53:57,055 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-18 18:53:57,078 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-18 19:04:24,602 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-18 19:04:24,624 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-18 19:23:26,147 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-18 19:23:26,165 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-18 19:25:08,893 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-18 19:25:08,906 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-18 19:25:48,450 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-18 19:25:48,465 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-18 19:28:19,348 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-18 19:28:19,358 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-18 19:28:47,057 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-18 19:28:47,068 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-18 19:31:18,225 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-18 19:31:18,237 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-18 19:34:22,791 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-18 19:34:22,802 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-18 19:34:33,825 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-18 19:34:33,831 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-18 19:34:40,624 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-18 19:34:40,628 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-18 19:34:45,403 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-18 19:34:45,406 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-18 19:34:48,921 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-18 19:34:48,924 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-18 19:34:53,246 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-18 19:34:53,249 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-18 19:34:55,228 - ui_automation.step_definitions.ActionsDoubleClickSteps -INFO - Navigate to the JQUERY page
+2022-11-18 19:34:55,265 - ui_automation.step_definitions.ActionsDoubleClickSteps -INFO - Switch to the Box frame
+2022-11-18 19:34:58,514 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-18 19:34:58,517 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-18 19:35:05,873 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-18 19:35:05,878 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-18 19:35:06,904 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-18 19:35:06,907 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-18 19:35:07,623 - ui_automation.step_definitions.RightClickPageSteps -INFO -
+2022-11-18 19:35:09,836 - ui_automation.step_definitions.RightClickPageSteps -INFO -
+2022-11-18 19:35:11,992 - ui_automation.step_definitions.RightClickPageSteps -INFO -
+2022-11-18 19:35:11,995 - ui_automation.utilities.AlertHelper -INFO - 
+2022-11-18 19:35:12,161 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-18 19:35:12,164 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-18 19:35:16,940 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-18 19:35:16,943 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-18 19:58:51,694 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-18 19:58:51,706 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-18 19:58:53,272 - ui_automation.step_definitions.FileDownloadSteps -INFO - Navigating to Download Page
+2022-11-18 19:58:59,620 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-18 19:58:59,623 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-18 20:10:29,196 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-18 20:10:29,209 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-18 20:10:30,673 - ui_automation.step_definitions.FileDownloadSteps -INFO - Navigating to Download Page
+2022-11-18 20:10:35,973 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-18 20:10:35,976 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-18 20:10:57,575 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-18 20:10:57,589 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-18 20:10:58,818 - ui_automation.step_definitions.FileDownloadSteps -INFO - Navigating to Download Page
+2022-11-18 20:11:04,055 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-18 20:11:04,059 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-18 20:12:09,660 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-18 20:12:09,671 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-18 20:12:10,833 - ui_automation.step_definitions.FileDownloadSteps -INFO - Navigating to Download Page
+2022-11-18 20:12:17,041 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-18 20:12:17,044 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-18 20:13:10,404 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-18 20:13:10,415 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-18 20:13:11,582 - ui_automation.step_definitions.FileDownloadSteps -INFO - Navigating to Download Page
+2022-11-18 20:13:17,822 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-18 20:13:17,825 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-18 20:13:42,592 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-18 20:13:42,602 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-18 20:13:43,794 - ui_automation.step_definitions.FileDownloadSteps -INFO - Navigating to Download Page
+2022-11-18 20:13:49,036 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-18 20:13:49,039 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-21 22:27:48,678 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-21 22:27:48,712 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-21 22:27:51,444 - ui_automation.step_definitions.FileDownloadSteps -INFO - Navigating to Download Page
+2022-11-21 22:27:56,814 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-21 22:27:56,818 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-21 22:28:03,305 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-21 22:28:03,310 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-21 22:28:05,488 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-21 22:28:05,495 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-21 22:33:00,544 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-21 22:33:00,563 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-21 22:33:02,151 - ui_automation.step_definitions.FileDownloadSteps -INFO - Navigating to Download Page
+2022-11-21 22:33:07,498 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-21 22:33:07,502 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-21 22:33:13,404 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-21 22:33:13,410 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-21 22:33:15,168 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-21 22:33:15,172 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-21 22:34:44,870 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-21 22:34:44,883 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-21 22:34:46,351 - ui_automation.step_definitions.FileDownloadSteps -INFO - Navigating to Download Page
+2022-11-21 22:34:51,627 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-21 22:34:51,632 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-21 22:34:57,330 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-21 22:34:57,335 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-21 22:34:59,171 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-21 22:34:59,179 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-21 22:38:13,306 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-21 22:38:13,322 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-21 22:45:24,993 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-21 22:45:25,006 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-21 22:45:53,626 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-21 22:45:53,640 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-21 22:46:49,745 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-21 22:46:49,760 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-21 22:48:15,179 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-21 22:48:15,200 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-21 22:50:15,672 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-21 22:50:15,686 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-21 22:50:50,789 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-21 22:50:50,801 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-21 22:57:55,744 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-21 22:57:55,758 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-21 22:57:57,149 - ui_automation.step_definitions.RightClickPageSteps -INFO - 
+2022-11-21 22:57:59,433 - ui_automation.step_definitions.RightClickPageSteps -INFO - 
+2022-11-21 22:58:01,615 - ui_automation.step_definitions.RightClickPageSteps -INFO - 
+2022-11-21 22:58:01,618 - ui_automation.utilities.AlertHelper -INFO - 
+2022-11-21 23:00:34,504 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-21 23:00:34,521 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-21 23:00:35,866 - ui_automation.step_definitions.RightClickPageSteps -INFO - 
+2022-11-21 23:00:38,184 - ui_automation.step_definitions.RightClickPageSteps -INFO - 
+2022-11-21 23:00:40,375 - ui_automation.step_definitions.RightClickPageSteps -INFO - 
+2022-11-21 23:00:40,375 - ui_automation.utilities.AlertHelper -INFO - 
+2022-11-21 23:01:19,733 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-21 23:01:19,747 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-21 23:01:21,094 - ui_automation.step_definitions.RightClickPageSteps -INFO - 
+2022-11-21 23:01:23,348 - ui_automation.step_definitions.RightClickPageSteps -INFO - 
+2022-11-21 23:01:25,520 - ui_automation.utilities.AlertHelper -INFO - 
+2022-11-21 23:02:53,645 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-21 23:02:53,660 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-21 23:02:54,925 - ui_automation.step_definitions.RightClickPageSteps -INFO - 
+2022-11-21 23:02:57,155 - ui_automation.step_definitions.RightClickPageSteps -INFO - 
+2022-11-21 23:02:59,330 - ui_automation.utilities.AlertHelper -INFO - 
+2022-11-21 23:11:35,107 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-21 23:11:35,123 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-21 23:12:06,111 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-21 23:12:06,129 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-21 23:13:28,820 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-21 23:13:28,837 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-21 23:14:04,696 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-21 23:14:04,712 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-21 23:26:06,467 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-21 23:26:06,493 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 18:40:34,397 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 18:40:34,416 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 18:43:03,851 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 18:43:03,863 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 18:44:01,999 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 18:44:02,011 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 18:53:27,347 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 18:53:27,359 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 18:54:44,291 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 18:54:44,303 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 19:27:21,167 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 19:27:21,183 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 19:28:04,887 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 19:28:04,902 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 19:47:42,900 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 19:47:42,916 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 19:48:22,330 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 19:48:22,344 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 19:50:37,906 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 19:50:37,921 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 19:50:56,768 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 19:50:56,782 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 19:58:12,282 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 19:58:12,298 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 19:59:02,283 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 19:59:02,297 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 20:02:02,905 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 20:02:02,923 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 20:04:31,951 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 20:04:31,967 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 20:06:44,117 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 20:06:44,137 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 20:10:12,437 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 20:10:12,451 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 20:11:45,100 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 20:11:45,115 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 20:12:43,151 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 20:12:43,166 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 20:22:15,598 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 20:22:15,618 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 20:22:41,217 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 20:22:41,237 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 20:23:17,626 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 20:23:17,644 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 20:28:26,528 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 20:28:26,544 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 20:31:20,325 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 20:31:20,341 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 20:34:01,444 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 20:34:01,461 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 20:35:07,660 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 20:35:07,678 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 20:37:10,874 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 20:37:10,892 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 20:38:20,196 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 20:38:20,228 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 20:39:37,272 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 20:39:37,300 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 20:43:21,672 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 20:43:21,692 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 20:45:33,903 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 20:45:33,923 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 20:45:42,427 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 20:45:42,438 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 20:45:44,232 - ui_automation.step_definitions.FileDownloadSteps -INFO - Navigating to Download Page
+2022-11-22 20:45:49,696 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 20:45:49,708 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 21:03:06,112 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 21:03:06,126 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 21:03:49,321 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 21:03:49,334 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 21:04:01,371 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 21:04:01,384 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 21:10:54,453 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 21:10:54,464 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 21:11:56,963 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 21:11:56,974 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 21:17:34,994 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 21:17:35,006 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 21:18:35,390 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 21:18:35,405 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 21:18:47,167 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 21:18:47,170 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 21:18:50,587 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 21:18:50,590 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 21:18:54,851 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 21:18:54,854 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 21:19:45,757 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 21:19:45,760 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 21:19:49,834 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 21:19:49,840 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 21:19:57,276 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 21:19:57,279 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 21:20:02,798 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 21:20:02,801 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 21:20:03,546 - ui_automation.step_definitions.RightClickPageSteps -INFO - 
+2022-11-22 21:20:06,021 - ui_automation.step_definitions.RightClickPageSteps -INFO - 
+2022-11-22 21:20:08,194 - ui_automation.utilities.AlertHelper -INFO - 
+2022-11-22 21:20:08,347 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 21:20:08,350 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 21:20:10,584 - ui_automation.step_definitions.ActionsDoubleClickSteps -INFO - Navigate to the JQUERY page
+2022-11-22 21:20:10,613 - ui_automation.step_definitions.ActionsDoubleClickSteps -INFO - Switch to the Box frame
+2022-11-22 21:20:13,889 - ui_automation.step_definitions.ActionsDoubleClickSteps -INFO - Background verification
+2022-11-22 21:20:14,032 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 21:20:14,036 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 21:20:15,073 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 21:20:15,077 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 21:20:20,697 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 21:20:20,700 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 21:20:29,585 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 21:20:29,587 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 21:20:33,377 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 21:20:33,381 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 21:20:37,575 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 21:20:37,579 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 21:20:42,874 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 21:20:42,876 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 21:20:48,309 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 21:20:48,311 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 21:21:14,090 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 21:21:14,092 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 21:21:20,531 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 21:21:20,536 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 21:21:21,424 - ui_automation.step_definitions.FileDownloadSteps -INFO - Navigating to Download Page
+2022-11-22 21:21:26,634 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 21:21:26,637 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 21:21:32,012 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 21:21:32,014 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 21:21:33,223 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 21:21:33,225 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 21:21:47,495 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 21:21:47,499 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 21:21:48,943 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 21:21:48,946 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 21:21:50,574 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 21:21:50,577 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 21:21:51,485 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 21:21:51,487 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 21:21:55,082 - ui_automation.step_definitions.UploadFileSteps -INFO - Full path of this file is: C:\Users\cahid\OneDrive\Desktop\Assignment/src/test/resources/testData/forest.jpg
+2022-11-22 21:21:55,469 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 21:21:55,472 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 21:37:27,000 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 21:37:27,012 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 21:38:51,328 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 21:38:51,343 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 21:42:57,566 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 21:42:57,579 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 21:44:12,116 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 21:44:12,128 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 21:45:11,143 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 21:45:11,155 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 21:54:04,498 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 21:54:04,509 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 21:54:29,678 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 21:54:29,688 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 22:08:20,489 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 22:08:20,503 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 22:10:48,432 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 22:10:48,445 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 22:12:45,789 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 22:12:45,799 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 22:13:35,933 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 22:13:35,945 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 22:14:38,943 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 22:14:38,954 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 22:15:25,864 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 22:15:25,875 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 22:17:11,250 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 22:17:11,260 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 22:18:51,721 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 22:18:51,733 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 22:20:04,408 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 22:20:04,420 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 22:37:20,590 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 22:37:20,604 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 22:38:04,272 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 22:38:04,286 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 22:39:42,555 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 22:39:42,567 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 22:47:47,340 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 22:47:47,351 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 22:52:51,689 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 22:52:51,701 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 22:53:52,081 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 22:53:52,093 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 22:55:46,111 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 22:55:46,123 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 22:56:53,657 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 22:56:53,668 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 22:57:56,407 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 22:57:56,418 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 22:58:08,109 - ui_automation.utilities.AlertHelper -INFO - true
+2022-11-22 22:58:08,122 - ui_automation.utilities.AlertHelper -INFO - Hello
+2022-11-22 22:58:29,913 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 22:58:29,924 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 22:58:41,555 - ui_automation.utilities.AlertHelper -INFO - true
+2022-11-22 22:58:41,566 - ui_automation.utilities.AlertHelper -INFO - Hello
+2022-11-22 22:58:58,635 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 22:58:58,646 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 22:59:10,258 - ui_automation.utilities.AlertHelper -INFO - true
+2022-11-22 22:59:10,270 - ui_automation.utilities.AlertHelper -INFO - Hello
+2022-11-22 23:00:07,229 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 23:00:07,240 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 23:00:08,764 - ui_automation.utilities.AlertHelper -INFO - true
+2022-11-22 23:00:08,778 - ui_automation.utilities.AlertHelper -INFO - Hello
+2022-11-22 23:01:12,924 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 23:01:12,935 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 23:01:14,489 - ui_automation.utilities.AlertHelper -INFO - true
+2022-11-22 23:01:14,501 - ui_automation.utilities.AlertHelper -INFO - Hello
+2022-11-22 23:09:51,712 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 23:09:51,724 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 23:09:57,558 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 23:09:57,562 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 23:10:03,126 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 23:10:03,130 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 23:10:03,848 - ui_automation.step_definitions.RightClickPageSteps -INFO - 
+2022-11-22 23:10:06,071 - ui_automation.step_definitions.RightClickPageSteps -INFO - 
+2022-11-22 23:10:08,239 - ui_automation.utilities.AlertHelper -INFO - 
+2022-11-22 23:10:08,415 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 23:10:08,417 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 23:10:09,689 - ui_automation.utilities.AlertHelper -INFO - true
+2022-11-22 23:10:09,700 - ui_automation.utilities.AlertHelper -INFO - Hello
+2022-11-22 23:10:09,859 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 23:10:09,862 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 23:10:15,141 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 23:10:15,144 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 23:10:20,592 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 23:10:20,595 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 23:10:46,392 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 23:10:46,395 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 23:10:52,694 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 23:10:52,697 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 23:10:53,679 - ui_automation.step_definitions.FileDownloadSteps -INFO - Navigating to Download Page
+2022-11-22 23:10:58,910 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 23:10:58,913 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 23:11:04,293 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 23:11:04,295 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 23:11:05,476 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 23:11:05,478 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 23:11:07,626 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 23:11:07,628 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 23:11:09,106 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 23:11:09,109 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 23:11:10,606 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 23:11:10,608 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 23:11:12,331 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 23:11:12,333 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-22 23:11:17,903 - ui_automation.step_definitions.UploadFileSteps -INFO - Full path of this file is: C:\Users\cahid\OneDrive\Desktop\Assignment/src/test/resources/testData/forest.jpg
+2022-11-22 23:11:18,193 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-22 23:11:18,196 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-23 12:13:04,357 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-23 12:13:04,387 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-23 12:14:47,187 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-23 12:14:47,211 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-23 12:19:37,064 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-23 12:19:37,083 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-23 12:32:40,679 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-23 12:32:40,698 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-23 12:39:29,197 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-23 12:39:29,213 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-23 12:39:31,414 - ui_automation.utilities.AlertHelper -INFO - true
+2022-11-23 12:39:31,431 - ui_automation.utilities.AlertHelper -INFO - Hello
+2022-11-23 12:41:06,418 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-23 12:41:06,436 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-23 12:42:11,764 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-23 12:42:11,783 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-23 12:44:06,622 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-23 12:44:06,634 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-23 12:59:45,028 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-23 12:59:45,042 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-23 13:00:47,340 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-23 13:00:47,351 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-23 13:02:20,627 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-23 13:02:20,639 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-23 13:03:21,246 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-23 13:03:21,258 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-23 13:06:41,334 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-23 13:06:41,347 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-23 13:07:41,778 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-23 13:07:41,790 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-23 13:13:58,101 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-23 13:13:58,113 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-23 13:15:06,739 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-23 13:15:06,752 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-23 13:16:44,079 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-23 13:16:44,089 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-23 13:20:00,950 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-23 13:20:00,963 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-23 13:20:52,807 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-23 13:20:52,819 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-23 13:28:08,699 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-23 13:28:08,710 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-23 13:35:12,053 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-23 13:35:12,065 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-23 13:48:27,121 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-23 13:48:27,134 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-23 15:33:35,058 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-23 15:33:35,073 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-23 15:36:09,969 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-23 15:36:09,982 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-23 15:36:37,536 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-23 15:36:37,547 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-24 13:16:54,474 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-24 13:16:54,503 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-24 13:19:41,661 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-24 13:19:41,677 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-24 13:20:19,301 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-24 13:20:19,314 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-24 13:20:21,154 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-24 13:20:21,161 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-24 13:22:53,612 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-24 13:22:53,626 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-24 13:22:55,471 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-24 13:22:55,474 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-24 13:24:13,886 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-24 13:24:13,899 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-24 13:24:57,132 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-24 13:24:57,151 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-24 13:25:39,611 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-24 13:25:39,624 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-24 13:28:06,583 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-24 13:28:06,595 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-24 13:29:57,530 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-24 13:29:57,542 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-24 13:30:27,719 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-24 13:30:27,732 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-24 13:31:26,780 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-24 13:31:26,794 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-24 13:34:47,973 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-24 13:34:47,986 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-24 13:36:03,901 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-24 13:36:03,916 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-24 13:36:41,815 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-24 13:36:41,829 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-24 13:45:37,134 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-24 13:45:37,151 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-24 13:46:09,794 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-24 13:46:09,807 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-24 13:47:29,085 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-24 13:47:29,098 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-24 13:49:10,879 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-24 13:49:10,893 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-24 13:55:01,785 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-24 13:55:01,799 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-24 13:56:39,019 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-24 13:56:39,032 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-24 14:02:45,290 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-24 14:02:45,303 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-24 14:03:17,024 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-24 14:03:17,045 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-24 14:03:49,548 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-24 14:03:49,563 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-24 14:04:19,542 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-24 14:04:19,556 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-24 14:04:58,237 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-24 14:04:58,252 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\cahid\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
