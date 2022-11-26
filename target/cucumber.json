@@ -3,11 +3,11 @@
     "line": 2,
     "elements": [
       {
-        "start_timestamp": "2022-11-24T20:21:43.933Z",
+        "start_timestamp": "2022-11-26T01:08:44.419Z",
         "before": [
           {
             "result": {
-              "duration": 1964639900,
+              "duration": 1866775500,
               "status": "passed"
             },
             "match": {
@@ -22,7 +22,7 @@
         "after": [
           {
             "result": {
-              "duration": 956707200,
+              "duration": 1204218400,
               "status": "passed"
             },
             "match": {
@@ -35,7 +35,7 @@
         "steps": [
           {
             "result": {
-              "duration": 823763700,
+              "duration": 456689200,
               "status": "passed"
             },
             "line": 5,
@@ -47,7 +47,7 @@
           },
           {
             "result": {
-              "duration": 3376733500,
+              "duration": 3700442200,
               "status": "passed"
             },
             "line": 6,
@@ -59,9 +59,6 @@
           }
         ],
         "tags": [
-          {
-            "name": "@run"
-          },
           {
             "name": "@regression"
           }
@@ -75,19 +72,1699 @@
     "uri": "file:src/test/resources/uiFeatures/DragAndDrop.feature",
     "tags": [
       {
-        "name": "@run",
+        "name": "@regression",
         "type": "Tag",
         "location": {
           "line": 1,
           "column": 1
         }
-      },
+      }
+    ]
+  },
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2022-11-26T01:08:51.698Z",
+        "before": [
+          {
+            "result": {
+              "duration": 974723300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "User should be able to  assert that the content changes on each refresh.",
+        "description": "",
+        "id": "this-functionality-validates-scenario-for-dynamic-content;user-should-be-able-to--assert-that-the-content-changes-on-each-refresh.",
+        "after": [
+          {
+            "result": {
+              "duration": 289572200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 395474200,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user navigates to the dynamic content",
+            "match": {
+              "location": "DynamicContentSteps.user_navigates_to_the_dynamic_content()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 4408733600,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user asserts that the content changes on each refresh",
+            "match": {
+              "location": "DynamicContentSteps.user_asserts_that_the_content_changes_on_each_refresh()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@regression"
+          }
+        ]
+      }
+    ],
+    "name": "This functionality validates scenario for dynamic content",
+    "description": "",
+    "id": "this-functionality-validates-scenario-for-dynamic-content",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/uiFeatures/DynamicContent.feature",
+    "tags": [
       {
         "name": "@regression",
         "type": "Tag",
         "location": {
           "line": 1,
-          "column": 6
+          "column": 1
+        }
+      }
+    ]
+  },
+  {
+    "line": 3,
+    "elements": [
+      {
+        "start_timestamp": "2022-11-26T01:08:57.778Z",
+        "before": [
+          {
+            "result": {
+              "duration": 937402500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 5,
+        "name": "User should be able to validate page contains error",
+        "description": "",
+        "id": "this-feature-file-validates-the-functionality-of-javascript-error;user-should-be-able-to-validate-page-contains-error",
+        "after": [
+          {
+            "result": {
+              "duration": 198971300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 235937000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user navigates to the JavaScript error on the page",
+            "match": {
+              "location": "JavaScriptErrorSteps.user_navigates_to_the_JavaScript_error_on_the_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 42098800,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user asserts that the page contains error",
+            "match": {
+              "location": "JavaScriptErrorSteps.user_asserts_that_the_page_contains_error()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@regression"
+          }
+        ]
+      }
+    ],
+    "name": "This feature file validates the functionality of JavaScript Error",
+    "description": "",
+    "id": "this-feature-file-validates-the-functionality-of-javascript-error",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/uiFeatures/JavaScriptError.feature",
+    "tags": [
+      {
+        "name": "@regression",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  },
+  {
+    "line": 3,
+    "elements": [
+      {
+        "start_timestamp": "2022-11-26T01:08:59.202Z",
+        "before": [
+          {
+            "result": {
+              "duration": 992899500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 5,
+        "name": "User should be able to handle a Notification Message",
+        "description": "",
+        "id": "user-validations-for-notification-message-functionality;user-should-be-able-to-handle-a-notification-message",
+        "after": [
+          {
+            "result": {
+              "duration": 216158200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 435464400,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user navigates to Notification Message Page",
+            "match": {
+              "location": "NotificationMessageSteps.user_navigates_to_Notification_Message_Page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3222355900,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user clicks on the Click Here link a multiple times",
+            "match": {
+              "location": "NotificationMessageSteps.userClicksOnTheClickHereLinkAMultipleTimes()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2188069300,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user asserts that one of the message",
+            "match": {
+              "location": "NotificationMessageSteps.userAssertsThatOneOfTheMessage()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@regression"
+          }
+        ]
+      }
+    ],
+    "name": "User validations for Notification Message functionality",
+    "description": "",
+    "id": "user-validations-for-notification-message-functionality",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/uiFeatures/NotificationMessage.feature",
+    "tags": [
+      {
+        "name": "@regression",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  },
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2022-11-26T01:09:06.267Z",
+        "before": [
+          {
+            "result": {
+              "duration": 940975300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "User should be able to right click",
+        "description": "",
+        "id": "this-functionality-validates-scenarios-for-actionsrightclick-page;user-should-be-able-to-right-click",
+        "after": [
+          {
+            "result": {
+              "duration": 170513700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 2274554600,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user navigates to the page",
+            "match": {
+              "location": "RightClickPageSteps.user_navigates_to_the_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2154089600,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user Right clicks on the box",
+            "match": {
+              "location": "RightClickPageSteps.user_Right_clicks_on_the_box()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 14326300,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user Say ok to alert",
+            "match": {
+              "location": "RightClickPageSteps.user_Say_ok_to_alert()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@regression"
+          }
+        ]
+      }
+    ],
+    "name": "This functionality validates scenarios for actionsRightClick Page",
+    "description": "",
+    "id": "this-functionality-validates-scenarios-for-actionsrightclick-page",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/uiFeatures/RightClick.feature",
+    "tags": [
+      {
+        "name": "@regression",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  },
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2022-11-26T01:09:11.829Z",
+        "before": [
+          {
+            "result": {
+              "duration": 934646100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 5,
+        "name": "User should verify regular alert on Alerts Page",
+        "description": "",
+        "id": "user-validations-for-alerts-functionality;user-should-verify-regular-alert-on-alerts-page",
+        "after": [
+          {
+            "result": {
+              "duration": 168037100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 387502700,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user navigates to Alert Page",
+            "match": {
+              "location": "AlertPageSteps.user_navigates_to_Alert_Page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 89983000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user clicks on JS JS Alert Button",
+            "match": {
+              "location": "AlertPageSteps.user_clicks_on_JS_JS_Alert_Button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 44704300,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user asserts alert message",
+            "match": {
+              "location": "AlertPageSteps.user_asserts_alert_message()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 57118400,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "user clicks on JS confirm Button and clicks ok on alert",
+            "match": {
+              "location": "AlertPageSteps.user_clicks_on_JS_confirm_Button_and_clicks_ok_on_alert()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 27541200,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "user asserts the alert message",
+            "match": {
+              "location": "AlertPageSteps.user_asserts_the_alert_message()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 75783500,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "user clicks on JS Prompt Button and types a message on Prompt",
+            "match": {
+              "location": "AlertPageSteps.user_clicks_on_JS_Prompt_Button_and_types_a_message_on_Prompt()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 28814800,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "user asserts that the alert message contains the typed message",
+            "match": {
+              "location": "AlertPageSteps.user_asserts_that_the_alert_message_contains_the_typed_message()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@regression"
+          }
+        ]
+      }
+    ],
+    "name": "User validations for Alerts functionality",
+    "description": "",
+    "id": "user-validations-for-alerts-functionality",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/uiFeatures/alertPage.feature",
+    "tags": [
+      {
+        "name": "@regression",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  },
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2022-11-26T01:09:13.653Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1080552100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "User should be able to check and uncheck options",
+        "description": "",
+        "id": "this-functionality-validates-scenario-for-check-and-uncheck;user-should-be-able-to-check-and-uncheck-options",
+        "after": [
+          {
+            "result": {
+              "duration": 166662700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 374620300,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user navigates to the check and uncheck page",
+            "match": {
+              "location": "CheckUncheckSteps.user_navigates_to_the_check_and_uncheck_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2124502200,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user checks options",
+            "match": {
+              "location": "CheckUncheckSteps.user_checks_options()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2068438400,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user unchecks options",
+            "match": {
+              "location": "CheckUncheckSteps.user_unchecks_options()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@regression"
+          }
+        ]
+      }
+    ],
+    "name": "This functionality validates scenario for check and uncheck",
+    "description": "",
+    "id": "this-functionality-validates-scenario-for-check-and-uncheck",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/uiFeatures/checkUncheck.feature",
+    "tags": [
+      {
+        "name": "@regression",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  },
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2022-11-26T01:09:19.475Z",
+        "before": [
+          {
+            "result": {
+              "duration": 923890800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "User should be able to select an option from the dropdown",
+        "description": "",
+        "id": "this-functionality-validates-scenario-for-dropdown-menu;user-should-be-able-to-select-an-option-from-the-dropdown",
+        "after": [
+          {
+            "result": {
+              "duration": 307650800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 374864200,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user navigates to the dropdown page",
+            "match": {
+              "location": "DropdownSteps.user_navigates_to_the_dropdown_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 83538000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user Right clicks on dropdown",
+            "match": {
+              "location": "DropdownSteps.user_Right_clicks_on_dropdown()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 4283326100,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user selects an option from the dropdown",
+            "match": {
+              "location": "DropdownSteps.user_selects_an_option_from_the_dropdown()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@regression"
+          }
+        ]
+      }
+    ],
+    "name": "This functionality validates scenario for dropdown menu",
+    "description": "",
+    "id": "this-functionality-validates-scenario-for-dropdown-menu",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/uiFeatures/dropDown.feature",
+    "tags": [
+      {
+        "name": "@regression",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  },
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2022-11-26T01:09:25.454Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1060124800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "User should be able to check dynamic controls",
+        "description": "",
+        "id": "this-functionality-validates-scenario-for-dynamic-controls;user-should-be-able-to-check-dynamic-controls",
+        "after": [
+          {
+            "result": {
+              "duration": 247397100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 572771900,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user navigates to the dynamic controls page",
+            "match": {
+              "location": "DynamicControlSteps.user_navigates_to_the_dynamic_controls_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 12307144400,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user clicks on Remove button",
+            "match": {
+              "location": "DynamicControlSteps.user_clicks_on_Remove_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 12282406200,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user clicks Enable button",
+            "match": {
+              "location": "DynamicControlSteps.user_clicks_Enable_button()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@regression"
+          }
+        ]
+      }
+    ],
+    "name": "This functionality validates scenario for dynamic controls",
+    "description": "",
+    "id": "this-functionality-validates-scenario-for-dynamic-controls",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/uiFeatures/dynamicControls.feature",
+    "tags": [
+      {
+        "name": "@regression",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  },
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2022-11-26T01:09:51.932Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1135701800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "User should be able to check dynamic loading",
+        "description": "",
+        "id": "this-functionality-validates-scenario-for-dynamic-loading;user-should-be-able-to-check-dynamic-loading",
+        "after": [
+          {
+            "result": {
+              "duration": 239744600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 378337700,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user navigates to the dynamic loading page",
+            "match": {
+              "location": "DynamicLoadingSteps.user_navigates_to_the_dynamic_loading_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 5121041300,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user clicks on Start button",
+            "match": {
+              "location": "DynamicLoadingSteps.user_clicks_on_Start_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 28268800,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user verifies displayed message",
+            "match": {
+              "location": "DynamicLoadingSteps.user_verifies_displayed_message()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@regression"
+          }
+        ]
+      }
+    ],
+    "name": "This functionality validates scenario for dynamic loading",
+    "description": "",
+    "id": "this-functionality-validates-scenario-for-dynamic-loading",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/uiFeatures/dynamicLoading.feature",
+    "tags": [
+      {
+        "name": "@regression",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  },
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2022-11-26T01:09:58.842Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1050438500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "User should be able to download a document on  Download Page",
+        "description": "",
+        "id": "this-feature--validates-the-functionality-of-file-download;user-should-be-able-to-download-a-document-on--download-page",
+        "after": [
+          {
+            "result": {
+              "duration": 169367200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 236144500,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user navigates to  Download Page",
+            "match": {
+              "location": "FileDownloadSteps.user_navigates_to_Download_Page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 5105671000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user downloads a document on  Download Page",
+            "match": {
+              "location": "FileDownloadSteps.userDownloadsADocumentOnDownloadPage()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@regression"
+          }
+        ]
+      }
+    ],
+    "name": "This feature  validates the functionality of File Download",
+    "description": "",
+    "id": "this-feature--validates-the-functionality-of-file-download",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/uiFeatures/fileDownload.feature",
+    "tags": [
+      {
+        "name": "@regression",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  },
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2022-11-26T01:10:05.410Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1142952100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "User should be able to check floating menu",
+        "description": "",
+        "id": "this-functionality-validates-scenario-for-floating-menu;user-should-be-able-to-check-floating-menu",
+        "after": [
+          {
+            "result": {
+              "duration": 151597900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 414247200,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user navigates to the floating menu page",
+            "match": {
+              "location": "FloatingMenuSteps.user_navigates_to_the_floating_menu_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 7908700,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user scrolls the page",
+            "match": {
+              "location": "FloatingMenuSteps.user_scrolls_the_page()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 36807700,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "asserts that the floating menu is still displayed",
+            "match": {
+              "location": "FloatingMenuSteps.asserts_that_the_floating_menu_is_still_displayed()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@regression"
+          }
+        ]
+      }
+    ],
+    "name": "This functionality validates scenario for floating menu",
+    "description": "",
+    "id": "this-functionality-validates-scenario-for-floating-menu",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/uiFeatures/floatingMenu.feature",
+    "tags": [
+      {
+        "name": "@regression",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  },
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2022-11-26T01:10:07.170Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1079588900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "User should be able to enter a keyword into the text box on iFrames Page",
+        "description": "",
+        "id": "user-validations-for-iframes-functionality;user-should-be-able-to-enter-a-keyword-into-the-text-box-on-iframes-page",
+        "after": [
+          {
+            "result": {
+              "duration": 162922000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1018263400,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user navigates to iFrames page",
+            "match": {
+              "location": "iFramePageSteps.user_navigates_to_iFrames_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 55771400,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user switch to the frame",
+            "match": {
+              "location": "iFramePageSteps.user_switch_to_the_frame()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 180597300,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user types some text from into the frame",
+            "match": {
+              "location": "iFramePageSteps.user_types_some_text_from_into_the_frame()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 30375400,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User verifies the written text",
+            "match": {
+              "location": "iFramePageSteps.user_verifies_the_written_text()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@regression"
+          }
+        ]
+      }
+    ],
+    "name": "User validations for iFrames functionality",
+    "description": "",
+    "id": "user-validations-for-iframes-functionality",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/uiFeatures/iFrame.feature",
+    "tags": [
+      {
+        "name": "@regression",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  },
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2022-11-26T01:10:09.705Z",
+        "before": [
+          {
+            "result": {
+              "duration": 977140200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "User should be able to login using valid credentials",
+        "description": "",
+        "id": "user-validations-for-login-functionality;user-should-be-able-to-login-using-valid-credentials",
+        "after": [
+          {
+            "result": {
+              "duration": 150185600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 318365800,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user navigates to loginpage",
+            "match": {
+              "location": "LoginSteps.user_navigates_to_loginpage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 160145700,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user enters \"tomsmith\" username",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"tomsmith\"",
+                  "offset": 12
+                }
+              ],
+              "location": "LoginSteps.user_enters_username(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 118125000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user enters \"SuperSecretPassword!\" password",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"SuperSecretPassword!\"",
+                  "offset": 12
+                }
+              ],
+              "location": "LoginSteps.user_enters_password(String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 266608700,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user clicks on login button",
+            "match": {
+              "location": "LoginSteps.user_clicks_on_login_button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 36924400,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "user validates successful login",
+            "match": {
+              "location": "LoginSteps.user_validates_successful_login()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@regression"
+          }
+        ]
+      }
+    ],
+    "name": "User validations for Login functionality",
+    "description": "",
+    "id": "user-validations-for-login-functionality",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/uiFeatures/loginPage.feature",
+    "tags": [
+      {
+        "name": "@regression",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  },
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2022-11-26T01:10:11.740Z",
+        "before": [
+          {
+            "result": {
+              "duration": 944493200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "User should not be able to login using invalid credentials",
+        "description": "",
+        "id": "user-validations-for-login-functionality;user-should-not-be-able-to-login-using-invalid-credentials",
+        "after": [
+          {
+            "result": {
+              "duration": 152920100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 399613200,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user navigates to Loginpage",
+            "match": {
+              "location": "LoginStepsFailure.user_navigates_to_Loginpage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 102469300,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user enters \"whatever\" Username",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"whatever\"",
+                  "offset": 12
+                }
+              ],
+              "location": "LoginStepsFailure.user_enters_Username(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 87448000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user enters \"what\" Password",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"what\"",
+                  "offset": 12
+                }
+              ],
+              "location": "LoginStepsFailure.user_enters_Password(String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 165974300,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user clicks on Login button",
+            "match": {
+              "location": "LoginStepsFailure.user_clicks_on_Login_button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 41308700,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "user validates \"Your username is invalid!\" Error Message",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Your username is invalid!\"",
+                  "offset": 15
+                }
+              ],
+              "location": "LoginStepsFailure.user_validates_Error_Message(String)"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@regression"
+          }
+        ]
+      }
+    ],
+    "name": "User validations for Login functionality",
+    "description": "",
+    "id": "user-validations-for-login-functionality",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/uiFeatures/loginPageFailure.feature",
+    "tags": [
+      {
+        "name": "@regression",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  },
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2022-11-26T01:10:13.640Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1070941600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "User should be able to hover over images",
+        "description": "",
+        "id": "this-functionality-validates-scenarios-for-movetoelement-page;user-should-be-able-to-hover-over-images",
+        "after": [
+          {
+            "result": {
+              "duration": 183478400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 369690000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user navigates to hover over page",
+            "match": {
+              "location": "MoveToElementPageSteps.user_navigates_to_hover_over_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 363395400,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user hovers over on each image",
+            "match": {
+              "location": "MoveToElementPageSteps.user_hovers_over_on_each_image()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 188889700,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user verifies that additional information is displayed for each image",
+            "match": {
+              "location": "MoveToElementPageSteps.user_verifies_that_additional_information_is_displayed_for_each_image()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@regression"
+          }
+        ]
+      }
+    ],
+    "name": "This functionality validates scenarios for MoveToElement Page",
+    "description": "",
+    "id": "this-functionality-validates-scenarios-for-movetoelement-page",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/uiFeatures/moveToElement.feature",
+    "tags": [
+      {
+        "name": "@regression",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  },
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2022-11-26T01:10:15.822Z",
+        "before": [
+          {
+            "result": {
+              "duration": 994387600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "User should be able to upload an image File Upload Page",
+        "description": "",
+        "id": "this-feature-file-validates-the-functionality-of-file-upload;user-should-be-able-to-upload-an-image-file-upload-page",
+        "after": [
+          {
+            "result": {
+              "duration": 674880500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 2245972700,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user navigates to File Upload Page",
+            "match": {
+              "location": "UploadFileSteps.userNavigatesToFileUploadPage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2277850800,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user uploads a document on  File Upload Page",
+            "match": {
+              "location": "UploadFileSteps.userUploadsADocumentOnFileUploadPage()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@regression"
+          }
+        ]
+      }
+    ],
+    "name": "This feature file validates the functionality of File Upload",
+    "description": "",
+    "id": "this-feature-file-validates-the-functionality-of-file-upload",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/uiFeatures/uploadFile.feature",
+    "tags": [
+      {
+        "name": "@regression",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  },
+  {
+    "line": 3,
+    "elements": [
+      {
+        "start_timestamp": "2022-11-26T01:10:22.021Z",
+        "before": [
+          {
+            "result": {
+              "duration": 960629300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 5,
+        "name": "User should be able to handle a new window",
+        "description": "",
+        "id": "user-validations-for-tabs-and-windows-functionality;user-should-be-able-to-handle-a-new-window",
+        "after": [
+          {
+            "result": {
+              "duration": 519279200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 2238762800,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user navigates to Tabs and Windows Page",
+            "match": {
+              "location": "WindowsTapsPageSteps.user_navigates_to_Tabs_and_Windows_Page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2179947800,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user clicks on the Click Here link",
+            "match": {
+              "location": "WindowsTapsPageSteps.userClicksOnTheClickHereLink()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 61232700,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user asserts that a new tab is opened with text New Window",
+            "match": {
+              "location": "WindowsTapsPageSteps.userAssertsThatANewTabIsOpenedWithTextNewWindow()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@regression"
+          }
+        ]
+      }
+    ],
+    "name": "User validations for Tabs and Windows functionality",
+    "description": "",
+    "id": "user-validations-for-tabs-and-windows-functionality",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/uiFeatures/windowsTaps.feature",
+    "tags": [
+      {
+        "name": "@regression",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
         }
       }
     ]

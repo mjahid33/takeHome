@@ -24,10 +24,10 @@ public class UploadFileSteps {
         Thread.sleep(2000);
     }
 
-    @Then("user uploads a document on File Upload Page")
-    public void user_uploads_a_document_on_File_Upload_Page() throws InterruptedException {
-        String filePath = System.getProperty("user.dir") + "/src/test/resources/testData/person.png";
 
+    @Then("user uploads a document on  File Upload Page")
+    public void userUploadsADocumentOnFileUploadPage() throws InterruptedException {
+        String filePath = System.getProperty("user.dir") + "/src/test/resources/testData/person.png";
         uploadFilePage.chooseFileButton.sendKeys(filePath);
         Thread.sleep(1000);
         uploadFilePage.uploadButton.click();
@@ -38,6 +38,4 @@ public class UploadFileSteps {
 
 
     }
-
-
 }

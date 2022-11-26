@@ -1,4 +1,4 @@
-@run @regression
+@regression
 Feature: This functionality validates Drag And Drop
 
   Scenario: User should be able to Drag and Drop

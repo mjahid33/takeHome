@@ -1,5 +1,5 @@
 @regression
-Feature: This feature  validates the functionality of File Upload and Download
+Feature: This feature  validates the functionality of File Download
 
   Scenario: User should be able to download a document on  Download Page
     Given user navigates to  Download Page

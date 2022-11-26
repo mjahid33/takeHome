@@ -34,17 +34,22 @@ public class NotificationMessageSteps {
 
     }
 
-    @And("user asserts that one of the <message>")
-    public void userAssertsThatOneOfTheMessage(String message) throws InterruptedException {
+    @And("user asserts that one of the message")
+    public void userAssertsThatOneOfTheMessage() throws InterruptedException {
+        String message = "";
+        boolean notification=true;
         String actualMessage=notificationMessagePage.message.getText();
-        Assert.assertEquals("Verification failed", message,actualMessage);
+        if(message.contains("Action")){
+            notification=true;
+        }
+        Assert.assertTrue("Verification failed",notification );
+
         notificationMessagePage.clickHere.click();
-        Thread.sleep(3000);
-        Assert.assertEquals("Verification failed", message,actualMessage);
+        Thread.sleep(2000);
+
+        Assert.assertTrue("Verification failed",notification );
+
     }
-
-
-
 }
 
 
